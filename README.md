@@ -8,7 +8,8 @@
 # Hello GitHub Actions
 
 _Create a GitHub Action and use it in a workflow._
-
+ 
+Making a small change to the README 
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
